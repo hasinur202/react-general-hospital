@@ -38,7 +38,7 @@ function App() {
             <PrivateRoute exact path="/gallery">
               <Gallery></Gallery>
             </PrivateRoute>
-            <PrivateRoute exact path="/service-details/:id/:name/:description">
+            <PrivateRoute path="/service-details/:id/:name/:description">
               <ServiceDetails></ServiceDetails>
             </PrivateRoute>
             <Route path="*">
