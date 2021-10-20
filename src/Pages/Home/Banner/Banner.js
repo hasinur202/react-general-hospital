@@ -59,7 +59,7 @@ const Banner = () => {
                 <div className="text-center">
                 <h3>In an emergency? Need help now?</h3>
                 <p> Every patient has the right to fast and adequate emergent medical care. We need better systems, more professionals and more resources. Support Emergency Carers. Celebrate EM-Day with us.</p>
-                <Link className="cta-btn scrollto" to="/appointment">Make an Make an Appointment</Link>
+                <Link className="cta-btn scrollto" to="/appointment">Make an Appointment</Link>
                 </div>
             </div>
         </section>

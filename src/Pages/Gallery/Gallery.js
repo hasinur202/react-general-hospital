@@ -7,7 +7,7 @@ const Gallery = () => {
 
                 <div class="section-title">
                 <h2>Gallery</h2>
-                <p>Here some photos of your different departments.</p>
+                <p>Here some photos of our different departments.</p>
                 </div>
 
                 <div class="gallery-slider swiper">

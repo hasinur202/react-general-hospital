@@ -24,7 +24,7 @@ const Contact = () => {
                                 <div className="info-box mt-4">
                                 <i className="bx bx-envelope"></i>
                                 <h3>Email Us</h3>
-                                <p><a href="/cdn-cgi/l/email-protection" className="__cf_email__" data-cfemail="731a1d151c33160b121e031f165d101c1e">[email&#160;protected]</a><br/><a href="/cdn-cgi/l/email-protection" className="__cf_email__" data-cfemail="64070b0a1005071024011c05091408014a070b09">[email&#160;protected]</a></p>
+                                <p>text@gmail.com</p>
                                 </div>
                             </div>
                             <div className="col-md-6">

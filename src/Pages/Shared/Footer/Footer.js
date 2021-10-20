@@ -15,14 +15,14 @@ const Footer = () => {
                                    Ring Road <br/>
                                     Mohammadpur-1207, Dhaka<br/><br/>
                                     <strong>Phone:</strong> +88 0177 XXXXX XXX<br/>
-                                    <strong>Email:</strong> <a href="/cdn-cgi/l/email-protection" className="__cf_email__" data-cfemail="177e79717857726f767a677b723974787a">[email&#160;protected]</a><br/>
+                                    <strong>Email:</strong> test@gmail.com<br/>
                                 </p>
                                 <div className="social-links mt-3">
-                                    <a href="#" className="twitter"><i className="bx bxl-twitter"></i></a>
-                                    <a href="#" className="facebook"><i className="bx bxl-facebook"></i></a>
-                                    <a href="#" className="instagram"><i className="bx bxl-instagram"></i></a>
-                                    <a href="#" className="google-plus"><i className="bx bxl-skype"></i></a>
-                                    <a href="#" className="linkedin"><i className="bx bxl-linkedin"></i></a>
+                                    <a href="www.twitter.com" className="twitter"><i className="bx bxl-twitter"></i></a>
+                                    <a href="www.facebook.com" className="facebook"><i className="bx bxl-facebook"></i></a>
+                                    <a href="www.instagrm.com" className="instagram"><i className="bx bxl-instagram"></i></a>
+                                    <a href="www.google.com" className="google-plus"><i className="bx bxl-skype"></i></a>
+                                    <a href="www.linkedin.com" className="linkedin"><i className="bx bxl-linkedin"></i></a>
                                 </div>
                             </div>
                         </div>

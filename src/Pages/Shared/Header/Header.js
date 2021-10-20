@@ -32,12 +32,12 @@ const Header = () => {
                         <Nav.Link as={HashLink} to="/home#doctors">Doctors</Nav.Link>
                         <Nav.Link as={HashLink} to="/home#contact">Contact</Nav.Link>
                         <Nav.Link as={HashLink} to="/gallery">Gallery</Nav.Link>
-                        <Nav.Link as={HashLink} to="/appointment"><span className="btn btn-info btn-sm d-none d-md-inline">Make an <b>Appointment</b></span></Nav.Link>
+                        <Nav.Link as={HashLink} to="/appointment"><span className="btn btn-info btn-sm d-md-inline">Make an <b>Appointment</b></span></Nav.Link>
                         {user?.email ?
                             <Button onClick={logOut} variant="light">Logout</Button> :
                             <Nav.Link as={Link} to="/login">Login</Nav.Link>}
                         { user.displayName && 
-                            <span className="mt-4"> Logged In as: <a href="#login"> {user?.displayName}</a></span>
+                            <span className="mt-4"> Signed In as <strong> {user?.displayName}</strong></span>
                         }
                         {/* <Navbar.Text> */}
                         {/* </Navbar.Text> */}
